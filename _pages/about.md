@@ -15,12 +15,12 @@ profile:
 
 
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Xinyao Han. I am a <a href="https://https://mitsloan.mit.edu/master-of-business-analytics/">Master of Bussiness Analytics</a> student at  Sloan School of Management. I graduated from NYU Shanghai with a major in Computer Science.
+My name is Xinyao Han. I am a <a href="https://mitsloan.mit.edu/master-of-business-analytics/">Master of Bussiness Analytics</a> student at  Sloan School of Management. I graduated from NYU Shanghai with a major in Computer Science.
 
 In case you don't know, I am a little kitty and I like to eat seafood very much. At my leisure time, I only nap and procrastinate. Also my biggest hobby is to play with my little puppy who is so nice, kind, warmhearted, good-looking, humorous, smart, and understanding.
 
