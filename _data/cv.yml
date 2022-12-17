@@ -15,12 +15,10 @@
       institution: Massachusetts Institute of Technology
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Coursework":" Machine Learning, Optimization Methods, Analytics Edge, Analytics Lab
+        - ML Project":" Social media ads CPA prediction on marketing strategy (OCT & XGB), with 26% cost reduction (Python, Julia)
+        - Optimization Project":" Optimized delivery routes with random customer locations & stochastic travel times, reducing delivery
+cost by 60% (Julia)
     - title: Bachelor of Science
       institution: New York University, Shanghai
       year: 2022
