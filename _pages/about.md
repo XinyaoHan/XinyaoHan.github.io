@@ -8,7 +8,7 @@ description:
   # <a href="https://https://mitsloan.mit.edu/master-of-business-analytics/">MIT</a>.
 
 profile:
-  align: right
+  align: left
   image: kitty.jpeg
   address: >
     <p>MIT Sloan School of Management</p>
