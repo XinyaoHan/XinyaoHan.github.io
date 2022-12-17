@@ -17,15 +17,14 @@
       description:
         - "Coursework: Machine Learning, Optimization Methods, Analytics Edge, Analytics Lab"
         - "ML Project: Social media ads CPA prediction on marketing strategy (OCT & XGB), with 26% cost reduction (Python, Julia)"
-        - "Optimization Project: Optimized delivery routes with random customer locations & stochastic travel times, reducing delivery"
-cost by 60% (Julia)
+        - "Optimization Project: Optimized delivery routes with random customer locations & stochastic travel times, reducing delivery cost by 60% (Julia)"
     - title: Bachelor of Science
       institution: New York University, Shanghai
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-
+        - "Coursework: Natural Language Processing, Algorithms, Probability and Statistics, Econometrics"
+        - "NLP Project: Implemented BERT multi-task model on criminal legal dataset to answer paragraph questions"
+        - "Leadership: Career Development Center Intern (Promoted to Leader), Undergraduate Business Association Vice President"
 - title: Experience
   type: time_table
   contents:
@@ -69,13 +68,12 @@ cost by 60% (Julia)
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - NYU Honors Scholar
+        - Global Futures Scholar
+        - Dean's Honors List 2018-2022
+        - NYU Excellence Award
 
 - title: Academic Interests
   type: nested_list
