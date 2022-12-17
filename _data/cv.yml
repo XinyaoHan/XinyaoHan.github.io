@@ -68,7 +68,7 @@
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">some project name</a>
       year: 2022
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: Project description. Put slides or report link here.
 
 - title: Honors and Awards
   type: time_table
