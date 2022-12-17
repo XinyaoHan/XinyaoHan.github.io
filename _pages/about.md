@@ -3,7 +3,9 @@ layout: about
 title: About
 permalink: /
 description: 
-  <a href="https://https://mitsloan.mit.edu/master-of-business-analytics/">MIT</a>.
+
+  <a href="https://nyuad.nyu.edu/en/">Affiliations</a>. New York University Abu Dhabi. 
+  # <a href="https://https://mitsloan.mit.edu/master-of-business-analytics/">MIT</a>.
 
 profile:
   align: right
@@ -15,8 +17,8 @@ profile:
 
 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
