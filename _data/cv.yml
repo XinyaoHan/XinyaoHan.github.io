@@ -25,25 +25,22 @@
         - "Coursework: Natural Language Processing, Algorithms, Probability and Statistics, Econometrics"
         - "NLP Project: Implemented BERT multi-task model on criminal legal dataset to answer paragraph questions"
         - "Leadership: Career Development Center Intern (Promoted to Leader), Undergraduate Business Association Vice President"
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: MIT OPERATIONS RESEARCH CENTER | LIBERTY MUTUAL
+      year: 2022-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Designed and implemented scalable imputation algorithm to imputed 2 high-dimensional matrices on 500k insurance data with $1.2B revenue, analyzed imputation mechanisms, presented results to Data Science teams to improve pricing (Python)
+        - Performed tree models and neural network on insurance loss prediction, enhancing baseline model performance (Tensorflow)
+    
+    - title: Analytics Lab Team Member
+      institution: MIT SLOAN | UNITED NATIONS
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Feature-engineered satellite imagery data into patches (ArcGIS), classified buildings in rural Colombia from pixel-level (CART, XGBoost, random forest), achieving 98% AUC (PyTorch)
+        - Integrated classification models to UNMAS global analytics team to evaluate effects of Colombian mine clearance project, providing insights into subsequent urban developments of Colombia
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -68,7 +65,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2018
+    - year: 2018-2022
       items: 
         - NYU Honors Scholar
         - Global Futures Scholar
