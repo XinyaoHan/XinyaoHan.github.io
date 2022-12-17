@@ -3,9 +3,6 @@ layout: about
 title: About
 permalink: /
 description: 
-
-  <a href="https://shanghai.nyu.edu/">NYU Shanghai</a>. | 
-  
   <a href="https://https://mitsloan.mit.edu/master-of-business-analytics/">MIT</a>.
 
 profile:
