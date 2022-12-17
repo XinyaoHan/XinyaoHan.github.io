@@ -1,10 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Xinyao Han
-    - name: Date of Birth
-      value: 1st Febuary 2000
+    - name: Technical Skills
+      value: Python (PyTorch, NLTK, scikit-learn, Selenium, Pandas), R, SQL, Julia, ArcGIS, C, Java, Git
     - name: Languages
       value: Chinese, English
 
@@ -66,8 +66,8 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
+    - title: <a href="https://github.com/alshedivat/al-folio">some project name</a>
+      year: 2022
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
@@ -92,7 +92,8 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
+- title: Additional Information
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Volunteer:</u> Researched Chinese female maternity policy & economic effects, volunteer teacher for migrant children in China
+    - <u>Interests:</u> amateur pianist, avid yogi, adrenaline junkie, figure skating learner
