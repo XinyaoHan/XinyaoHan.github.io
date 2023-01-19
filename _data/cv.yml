@@ -63,13 +63,6 @@
         - Conducted text analysis on 70M HSBC payment transactions, preprocessed features via word embeddings (NLTK)
         - Segregated customers using text data on consumption behavior with Multinomial Naive Bayes & NN models, achieving 88% accuracy (PyTorch), introduced customer segmentation strategies to HSBC Data Science team
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">some project name</a>
-      year: 2022
-      description: Project description. Put slides or report link here.
-
 - title: Honors and Awards
   type: time_table
   contents:
@@ -79,18 +72,6 @@
         - Global Futures Scholar
         - Dean's Honors List 2018-2022
         - NYU Excellence Award
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Additional Information
   type: list
