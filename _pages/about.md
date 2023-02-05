@@ -26,6 +26,12 @@ In case you don't know, I am a little kitty and I like to eat seafood very much.
 
 By the way, I am also looking for jobs and I can catch mice and play with myself. I try hard not to mess with your furnitures and keep you a clean home. For a recent resume, click [here](/assets/pdf/XinyaoHan_resume_1205.pdf). -->
 
-I’m a <a href="https://mitsloan.mit.edu/master-of-business-analytics/">Bussiness Analytics</a> student at MIT. Before that, I studied Computer Science for my undergrad at <a href="https://shanghai.nyu.edu/">New York University in Shanghai</a> and Abu Dhabi campus.
+Hello there!
 
-I am skilled in Python, SQL, Machine Learning, Probability and Statistics, and Deep Learning. I love seeing the world through a quantitative lens and solving real-world problems that make a positive impact.
+I study <a href="https://mitsloan.mit.edu/master-of-business-analytics/">Bussiness Analytics</a> at MIT. Before that, I studied Computer Science for my undergrad at New York University in <a href="https://shanghai.nyu.edu/">Shanghai</a> and Abu Dhabi campus.
+
+I'm a proactive learner, woman in tech, storyteller with data. I love seeing the world through a quantitative lens and the circumspect establishment of data evidence through substantively and statistically principled modeling results. I desire to create value by analyzing underexplored data. I enjoy solving real-world problems that make a positive impact.
+
+To stay abreast with evolving techniques, I continuously explore cutting-edge models through advanced research and internships. I'm interested in machine learning, optimization, data analytics and data-driven decisions.
+
+I am skilled in Python, SQL, Machine Learning, Probability and Statistics, and NLP.
