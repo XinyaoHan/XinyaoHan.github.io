@@ -32,6 +32,4 @@ I study <a href="https://mitsloan.mit.edu/master-of-business-analytics/">Bussine
 
 I'm a proactive learner, woman in tech, storyteller with data. I love seeing the world through a quantitative lens and the circumspect establishment of data evidence through substantively and statistically principled modeling results. I desire to create value by analyzing underexplored data. I enjoy solving real-world problems that make a positive impact.
 
-To stay abreast with evolving techniques, I continuously explore cutting-edge models through advanced research and internships. I'm interested in machine learning, optimization, data analytics and data-driven decisions.
-
-I am skilled in Python, SQL, Machine Learning, Probability and Statistics, and NLP.
+To stay abreast with evolving techniques, I continuously explore cutting-edge models through advanced research and internships. I'm interested in machine learning, optimization, data analytics and data-driven decisions. I am skilled in Python, SQL, Machine Learning, Probability and Statistics, and NLP.
